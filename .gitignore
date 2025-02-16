@@ -1,6 +1,12 @@
 # Compiled class file
 *.class
 
+**/gradlew
+**/gradlew.bat
+**/.gradle
+**/build/
+**/*.xml
+
 # Log file
 *.log
 
