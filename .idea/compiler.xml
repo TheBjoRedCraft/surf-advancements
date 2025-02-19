@@ -61,7 +61,7 @@
         <module name="surf-advancements.advancement-velocity.main" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel target="23">
+    <bytecodeTargetLevel target="21">
       <module name="surf-advancements-api" target="23" />
       <module name="surf-advancements-api.main" target="23" />
       <module name="surf-advancements-api.test" target="23" />
