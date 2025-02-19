@@ -1,7 +1,6 @@
 package dev.slne.surf.advancement.api.object;
 
-import dev.slne.surf.advancements.api.object.AdvancementKey;
-import dev.slne.surf.advancements.api.player.AdvancementPlayer;
+import dev.slne.surf.advancement.api.player.AdvancementPlayer;
 import lombok.Builder;
 import lombok.Getter;
 import net.kyori.adventure.text.Component;

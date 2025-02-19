@@ -1,6 +1,6 @@
 package dev.slne.surf.advancement.api.player;
 
-import dev.slne.surf.advancements.api.object.Advancement;
+import dev.slne.surf.advancement.api.object.Advancement;
 import it.unimi.dsi.fastutil.objects.ObjectSet;
 import java.util.UUID;
 import lombok.Builder;
