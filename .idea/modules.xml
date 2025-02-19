@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/advancement-api/surf-advancements.advancement-api.main.iml" filepath="$PROJECT_DIR$/.idea/modules/advancement-api/surf-advancements.advancement-api.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/advancement-api/surf-advancements.advancement-api.test.iml" filepath="$PROJECT_DIR$/.idea/modules/advancement-api/surf-advancements.advancement-api.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/advancement-uaapi/surf-advancements.advancement-uaapi.main.iml" filepath="$PROJECT_DIR$/.idea/modules/advancement-uaapi/surf-advancements.advancement-uaapi.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/advancement-velocity/surf-advancements.advancement-velocity.main.iml" filepath="$PROJECT_DIR$/.idea/modules/advancement-velocity/surf-advancements.advancement-velocity.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/advancement-velocity/surf-advancements.advancement-velocity.test.iml" filepath="$PROJECT_DIR$/.idea/modules/advancement-velocity/surf-advancements.advancement-velocity.test.iml" />
     </modules>
   </component>
 </project>

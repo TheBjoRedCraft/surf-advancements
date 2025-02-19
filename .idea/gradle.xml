@@ -10,6 +10,7 @@
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/advancement-api" />
             <option value="$PROJECT_DIR$/advancement-paper" />
+            <option value="$PROJECT_DIR$/advancement-uaapi" />
             <option value="$PROJECT_DIR$/advancement-velocity" />
           </set>
         </option>
