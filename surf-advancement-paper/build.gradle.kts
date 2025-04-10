@@ -3,7 +3,8 @@ plugins {
 }
 
 surfPaperPluginApi {
-    mainClass("dev.slne.surf.cloud.bukkit.BukkitMain")
+    mainClass("dev.slne.surf.advancement.bukkit.SurfAdvancementBukkit")
     authors.add("SLNE Development")
+
     generateLibraryLoader(false)
 }
