@@ -8,10 +8,7 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
-            <option value="$PROJECT_DIR$/advancement-api" />
-            <option value="$PROJECT_DIR$/advancement-paper" />
-            <option value="$PROJECT_DIR$/advancement-uaapi" />
-            <option value="$PROJECT_DIR$/advancement-velocity" />
+            <option value="$PROJECT_DIR$/surf-advancement-paper" />
           </set>
         </option>
       </GradleProjectSettings>

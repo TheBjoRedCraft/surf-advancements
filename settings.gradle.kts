@@ -1,6 +1,2 @@
 rootProject.name = "surf-advancements"
-
-include("advancement-api")
-include("advancement-paper")
-include("advancement-velocity")
-include("advancement-uaapi")
+include("surf-advancement-paper")
